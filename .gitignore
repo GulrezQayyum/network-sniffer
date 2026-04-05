@@ -4,4 +4,4 @@ env/
 __pycache__/
 *.pyc
 *.pyo
-.DS_Store" >> .gitignore
+.DS_Store" >> .gitignorevenv/
